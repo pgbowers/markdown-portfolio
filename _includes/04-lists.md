@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+:fire:
+🤞
+1. First item
+2. Second
+
+- Unordered item one
+- Another point
